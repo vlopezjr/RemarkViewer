@@ -1,0 +1,3 @@
+[submodule "MemoMeister"]
+	path = MemoMeister
+	url = https://github.com/vlopezjr/MemoMeister
