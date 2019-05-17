@@ -67,7 +67,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MemoMeister\MemoMeister\MemoMeister.csproj">
+    <ProjectReference Include="..\..\MemoMeister\MemoMeister\MemoMeister.csproj">
       <Project>{1dc75fa5-3112-4437-9763-50e1018f5598}</Project>
       <Name>MemoMeister</Name>
     </ProjectReference>
